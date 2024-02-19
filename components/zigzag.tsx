@@ -45,9 +45,9 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Santriwan.
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">Santriwan</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Excellent tahfidzul Qur'an khatam 30 juz (5 tahun)
                     menggunakan metode musyafahah/ talaqqi bi talqin.
@@ -61,7 +61,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Disiplin</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -71,7 +71,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Tekun</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -81,7 +81,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Sopan & Santun.</span>
                     </li>
                   </ul>
                 </div>
@@ -110,9 +110,9 @@ export default function Zigzag() {
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Santriwati.
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">Santriwati.</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Berkesempatan talaqqi secara langsung dengan pengasuh sampai
                     khatam 30 juz dan di bimbing langsung dalam rohani dan
@@ -127,7 +127,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Disiplin.</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -137,7 +137,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Tekun.</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -147,7 +147,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Sopan & Santun.</span>
                     </li>
                   </ul>
                 </div>
@@ -176,9 +176,9 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    More speed. Less spend
+                    Proses Pembelajaran Di aula.
                   </div>
-                  <h3 className="h3 mb-3">Keep projects on schedule</h3>
+                  <h3 className="h3 mb-3">Muhadasa Bersama.</h3>
                   <p className="text-xl text-gray-400 mb-4">
                     Asrama di lingkungan yang asri, tenang dan kondusif untuk
                     menghafal al-Qur'an.
@@ -192,7 +192,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Mengontrol Hafalan Setiap Santri.</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -202,7 +202,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Tahsinul Qiraah.</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -212,7 +212,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Ujian Tahfidz Al-Qur’an.</span>
                     </li>
                   </ul>
                 </div>

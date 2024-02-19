@@ -41,16 +41,21 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                PROFILE
+                VISI
               </blockquote>
+              <p className="uppercase grow">
+                Terwujudnya insan yang Qur’ani, Amali, dan Saintis.
+              </p>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite>{" "}
+                <cite className="text-gray-200 not-italic">
+                  PONPES ZHILALUL QUR'AN
+                </cite>{" "}
                 -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  UX Board
+                  JAMBI
                 </a>
               </div>
             </div>
@@ -80,16 +85,29 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                VISI
+                MISI
               </blockquote>
+              <div className="uppercase grow">
+                <p>
+                  Menyiapkan peserta didik yang berakhlakul karimah dan hafiz
+                  Al-Qur’an.
+                </p>
+                <p>"</p>
+                <p>
+                  Menyiapkan peserta didik yang terampil berbahasa Arab dan
+                  Inggris serta mampu membaca kitab kuning.
+                </p>
+              </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite>{" "}
+                <cite className="text-gray-200 not-italic">
+                  PONPES ZHILALUL QUR'AN
+                </cite>{" "}
                 -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  UX Board
+                  JAMBI
                 </a>
               </div>
             </div>
@@ -119,16 +137,35 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                MISI
+                TUJUAN
               </blockquote>
+              <div className="uppercase grow">
+                <p>
+                  Menghasilkan lulusan yang hafiz Al-Qur’an dan berhaluan
+                  Ahlussunnah wal Jama’ah.
+                </p>
+                <p>"</p>
+                <p>
+                  Menghasilkan lulusan yang humanis dan memiliki kepekaan
+                  sosial.
+                </p>
+                <p>"</p>
+
+                <p>
+                  Menghasilkan lulusan yang memiliki keilmuan dan daya saing
+                  yang siap menuju era baru kejayaan Islam.
+                </p>
+              </div>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite>{" "}
+                <cite className="text-gray-200 not-italic">
+                  PONPES ZHILALUL QUR'AN
+                </cite>{" "}
                 -{" "}
                 <a
                   className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
-                  UX Board
+                  JAMBI
                 </a>
               </div>
             </div>
